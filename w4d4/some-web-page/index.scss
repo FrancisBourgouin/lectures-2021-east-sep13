@@ -1,0 +1,21 @@
+@import "_variables";
+
+body {
+	h1 {
+		color: $primary;
+
+		&:hover {
+			color: red;
+		}
+	}
+
+	&:hover {
+		background: blue;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	body  {
+		color: green;
+	}
+}

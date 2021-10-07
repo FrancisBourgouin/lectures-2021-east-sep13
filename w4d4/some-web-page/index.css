@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body h1 {
+	color: red;
+}
+body h1:hover {
+	color: red;
+}
+body:hover {
+	background: blue;
+}
+
+@media screen and (max-width: 600px) {
+	body  {
+		color: green;
+	}
+}
+
+/*# sourceMappingURL=index.css.map */

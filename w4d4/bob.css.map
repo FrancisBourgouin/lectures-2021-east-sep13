@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGC,UAAG;EACF,SAAS,EAAE,GAAG;EACd,KAAK,EALG,MAAM;;AAShB,EAAG;EACF,KAAK,EAAE,IAAI",
+"sources": ["bob.scss"],
+"names": [],
+"file": "bob.css"
+}
