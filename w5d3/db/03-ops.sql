@@ -6,5 +6,4 @@ SELECT
   FROM jokes
   JOIN authors
   ON authors.id = jokes.author_id
-
 ;
