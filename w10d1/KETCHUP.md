@@ -12,3 +12,11 @@
 - Traversy
 - Code with Mosh
 - Clement Mihailescu
+
+- Project
+- final-project-backend
+- final-project-frontend
+
+- Project (git)
+  - backend
+  - frontend
